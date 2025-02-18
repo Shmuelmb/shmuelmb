@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shmuel cohen</h1>
-<h3 align="center">A passionate frontend developer from Israel</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://shmuelmb.github.io/portfolio/](https://shmuelmb.github.io/portfolio/)
 
